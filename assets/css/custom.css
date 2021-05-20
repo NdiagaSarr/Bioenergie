@@ -4,3 +4,12 @@ Custom CSS for TemplateMo 561 Purple Buzz
 https://templatemo.com/tm-561-purple-buzz
 
 */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  h1 {
+    text-shadow: 2px 1px rgb(22, 251, 255);
+  }
