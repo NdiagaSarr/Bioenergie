@@ -18,6 +18,10 @@ h1 {
 
 .encadrer {
   border: 3px blue dashed;
+  border-radius: 10px;
+  max-width: max-content;
+  display: inline-block;
+  font-size: large;
 }
 
 .wprock-img-zoom-hover .wprock-img-zoom {
