@@ -16,6 +16,10 @@ h1 {
     text-shadow: 2px 1px rgb(24, 25, 25);
 }
 
+.encadrer {
+  border: 3px blue dashed;
+}
+
 .wprock-img-zoom-hover .wprock-img-zoom {
   overflow: hidden;
   position: relative; 
